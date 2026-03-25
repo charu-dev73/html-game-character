@@ -1,6 +1,6 @@
 # Basic HTML Project – Game character,Sylus (Love and Deepspace)
 
-This is a basic static webpage built using only HTML, inspired by the character Sylus from Love and Deepspace.
+This is a basic static webpage built using only HTML, A character called Sylus from Love and Deepspace.
 
 ## About the Project
 - Created as part of my early web development practice  
